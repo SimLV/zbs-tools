@@ -35,7 +35,7 @@ This function changes port
 
 All messages are separate UDP datagrams with following content:
 
-`<key1>[,<key2>[,<keyN>]]<space><message>`
+`<key1>[,<key2>[,<keyN>]]<space><message>|t`
 
 *key1* is a column name in a table pane in ZBS
 

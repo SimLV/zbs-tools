@@ -5,7 +5,7 @@ This may be useful i.e. when two multiplayer clients are communicating.
 
 ## How to use it
 
-Place a *test_table.lua* from `dist` folder into a `packages` folder
+Place a *trace_table.lua* from `dist` folder into a `packages` folder of a ZBS editor
 
 ## Client
 
